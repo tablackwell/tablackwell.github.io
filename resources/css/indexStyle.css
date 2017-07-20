@@ -1,4 +1,5 @@
 body{
 	font-family: georgia;
 	color: firebrick;
+	background-image: linear-gradient(to left,blue,pink);
 }
