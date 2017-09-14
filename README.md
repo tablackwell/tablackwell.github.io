@@ -1,2 +1,2 @@
 # tablackwell.github.io
-My homepage
+My homepage. Not yet implemented, just a placeholder site. 
